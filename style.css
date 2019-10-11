@@ -1,0 +1,16 @@
+img {
+    width: 30%;
+}
+
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: purple;
+    width: 100%;
+    margin-top: 5rem;
+}
+
+h1 {
+    font-size: 150px;
+}
